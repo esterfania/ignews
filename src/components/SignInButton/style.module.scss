@@ -1,0 +1,41 @@
+.signInButton {
+  height: 3rem;
+  border-radius: 3rem;
+  color: var(--gray-50);
+  font-weight: bold;
+  background: var(--gray-850);
+  border: transparent;
+  padding: 0 1.5rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  transition: filter 0.2s;
+
+  svg {
+    width: 20px;
+    height: 20px;
+
+    &:first-child {
+      margin-right: 1rem;
+    }
+  }
+
+  &:hover {
+    filter: brightness(0.8);
+  }
+
+  &Logged {
+    color: var(--green-500);
+  }
+
+  &NotLogged {
+    color: var(--yellow-500);
+  }
+
+  &CloseIcon {
+    color: #737380;
+    margin-left: 1rem;
+  }
+}
