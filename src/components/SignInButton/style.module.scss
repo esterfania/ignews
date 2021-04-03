@@ -27,7 +27,7 @@
   }
 
   &Logged {
-    color: var(--green-500);
+    color: var(--blue-500);
   }
 
   &NotLogged {
@@ -35,7 +35,7 @@
   }
 
   &CloseIcon {
-    color: #737380;
+    color: var(--gray-350);
     margin-left: 1rem;
   }
 }
