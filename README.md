@@ -4,4 +4,5 @@
 
 Resultado final: 
 
-https://user-images.githubusercontent.com/35200622/114477750-2240aa00-9bd3-11eb-9a92-f5f32919e748.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/35200622/114477845-5caa4700-9bd3-11eb-9b3c-6dff6f8ed001.gif)
+
